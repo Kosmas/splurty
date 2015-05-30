@@ -1,3 +1,3 @@
 defmodule Splurty.QuoteView do
-  use Splurty.View
+  use Splurty.Web, :view
 end
